@@ -8,6 +8,7 @@ group :development, :test do
   gem 'byebug'
   gem 'rspec-rails', '2.13.1'
   gem 'sqlite3', '1.3.13'
+  gem 'test-unit'
 end
 
 group :test do
